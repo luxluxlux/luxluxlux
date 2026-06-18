@@ -6,9 +6,9 @@ My primary stack includes React, TypeScript, and Node.js. I also have experience
 
 ## Tech Stack
 
-- **Frontend:** React, MobX, JavaScript, TypeScript, HTML, CSS, Less, Sass, Jest, CRA, Vite
-- **Backend:** Python, Flask, PostgreSQL, Node.js, Express.js
-- **Tools:** Git, Docker, Nginx
+- **Frontend:** React, MobX, JavaScript, TypeScript, HTML, CSS, Less, Sass, Jest, CRA, Vite.
+- **Backend:** Python, Flask, PostgreSQL, Node.js, Express.js.
+- **Tools:** Git, Docker, Nginx.
 
 ## Projects
 
