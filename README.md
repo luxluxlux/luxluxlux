@@ -12,7 +12,7 @@ My primary stack includes React, TypeScript, and Node.js. I also have experience
 
 ## Projects
 
-### Cyphro
+### [Cyphro](https://github.com/luxluxlux/cyphro)
 
 A privacy-first, free, open-source web application that helps users protect personal files from scammers and unauthorized access. Files can be secured with a password or optionally disguised as another file type — all directly in the browser, without relying on external services.
 
