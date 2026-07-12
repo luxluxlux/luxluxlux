@@ -21,3 +21,8 @@ https://cyphro.io/
 ## Contacts
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/luxluxlux)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luxluxlux)
+[![X](https://img.shields.io/badge/X-%23FFFFFF.svg?logo=x&logoColor=black)](https://x.com/luxlux_x)
+
+
+
+
