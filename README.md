@@ -16,8 +16,6 @@ My primary stack includes React, TypeScript, and Node.js. I also have experience
 
 A privacy-first, free, open-source web application that helps users protect personal files from scammers and unauthorized access. Files can be secured with a password or optionally disguised as another file type — all directly in the browser, without relying on external services.
 
-https://cyphro.io/
-
 ## Contacts
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/luxluxlux)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luxluxlux)
